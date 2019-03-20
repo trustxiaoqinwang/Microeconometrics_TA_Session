@@ -16,6 +16,7 @@
 [https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
 &ensp;
 Tips: you can get TA revision materials on the homepage
+&ensp;
     ![review](Figures/review.png)
 ***
 # Some practical tips
