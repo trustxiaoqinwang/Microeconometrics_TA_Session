@@ -3,8 +3,8 @@
 - re-emphasis resources organization of this course.
 - some practical tips when you have technical problem with this course. eg markdown, R ,Python et al.
    - some useful website you can go
-   - some useful book you can look
-   - some helpful person you can ask for
+   - some useful book you can refer to
+   - some helpful person you can ask 
 - code repolication in slides ***regression*** and ***classification***  with `Python Jupyter Notebook`
 ***
 
