@@ -20,6 +20,9 @@ Tips: you can get TA revision materials on the homepage
 ***
 # Some practical tips
 ### _useful websites_
+- Python
+  - [廖雪峰个人网站](https://www.liaoxuefeng.com/)
+  - [Crossin 编程教室](https://crossincode.com/home/)
 ### _useful books_
 ### _helpful person_
 
