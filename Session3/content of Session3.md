@@ -16,7 +16,7 @@
 [https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
 &ensp;
 Tips: you can get TA revision materials on the homepage
-    ![review](/Figures/review.png)
+    ![review](Figures/review.png)
 ***
 # Some practical tips
 ### _useful websites_
@@ -28,18 +28,18 @@ Tips: you can get TA revision materials on the homepage
 ### _preparation_
 - change the working directory of Jupyter Notebook
   - open `cmd` and type in ` jupyter notebook --generate-config` to find where this file is on your computer.  "jupyter_notebook_config.py".
-    ![directory](/Figures/directory.png)
+    ![directory](Figures/directory.png)
   - use any Software that can open `.py` format documents to open it. for example `spyder`
-    ![root](/Figures/root.png)
+    ![root](Figures/root.png)
   - change the default directory to my directory
-    ![change_before](/Figures/change1.png)
-    ![change_after](/Figures/change2.png)
+    ![change_before](Figures/change1.png)
+    ![change_after](Figures/change2.png)
     and don't hesitate to click the ***save*** button.
   - right click the `Jupyter Note ` program  and open the   properties dialog. click the ***shortcut*** label and delete the
 `%USERPROFILE%` in the ***target*** box. rewrite  the path in the  ***starting position*** box and hit the ***apply*** button.
-![change_after](/Figures/change2.png)
+![change_after](Figures/change2.png)
   - open Jupyter Notebook , we will see, the directory changed. Well done!!!
-  ![interface](/Figures/reopen.png)
+  ![interface](Figures/reopen.png)
 
 
 ### _repolication example 1 (in slides `regression`)_
