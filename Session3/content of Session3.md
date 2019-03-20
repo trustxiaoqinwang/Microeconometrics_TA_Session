@@ -48,7 +48,7 @@ Tips: you can get TA revision materials on the homepage
     ![change_after](Figures/change2.png)
 &ensp;
     and don't hesitate to click the ***save*** button.
-  - right click the `Jupyter Note ` program  and open the  properties dialog. click the ***shortcut*** label and delete the `%USERPROFILE%` in the ***target*** box. rewrite  the path in the  ***starting position*** box and hit the ***apply*** button.
+  - right click the `Jupyter Note ` program  and open the  properties dialog. below the ***shortcut*** label we delete the `%USERPROFILE%`  then hit the ***apply*** button.
 &ensp;
      ![property](Figures/property.png)
 
