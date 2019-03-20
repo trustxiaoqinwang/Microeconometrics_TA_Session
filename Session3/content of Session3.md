@@ -1,8 +1,44 @@
-# outlies of session 3
+***
+# Outlines of TA session 3 #
+- re-emphasis resources organization of this course.
+- some practical tips when you have technical problem with this course. eg markdown, R ,Python et al.
+   - some useful website you can go
+   - some useful book you can look
+   - some helpful person you can ask for
+- code repolication in slides __regression__ and ***classification***  with `Python Jupyter Notebook`
+***
 
-## KNN
+# Resources organization of this course
+### all Information and resources are perfectly integrated in the following two websites
+### main course homepage
+[https://jiamingmao.github.io/data-analysis](https://jiamingmao.github.io/data-analysis)
+### github repo
+[https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
+&ensp;
+Tips: you can get TA revision materials on the homepage
+    ![review](/Figures/review.png)
+***
+# Some practical tips
+### _useful websites_
+### _useful books_
+### _useful person_
 
-1. definaition
+***
+# Code repolication
+### _preparation_
+- change the working directory of Jupyter Notebook
+  - open `cmd` and type in ` jupyter notebook --generate-config` to find where this file is on your computer.  "jupyter_notebook_config.py".
+    ![directory](/Figures/directory.png)
+  - use any Software that can open `.py` format documents to open it. for example `spyder`
+    ![root](/Figures/root.png)
+  - change the default directory to my directory
+    ![chang_before](/Figures/change1.png)
+    ![chang_after](/Figures/change2.png)
+    and don't hesitate to click the ***save*** button.
+  - right click the `Jupyter Note ` program  and open the   properties dialog. click the ***shortcut*** label and delete the 
+`%USERPROFILE%` in the ***target*** box. rewrite the path in the  ***starting position*** box.
 
-2. usage
+### _repolication example 1 (in slides `regression`)_
 
+
+### _repolication example 2 (in slides `classification`)_
