@@ -29,20 +29,27 @@ Tips: you can get TA revision materials on the homepage
 - change the working directory of Jupyter Notebook
   - open `cmd` and type in ` jupyter notebook --generate-config` to find where this file is on your computer.  "jupyter_notebook_config.py".
     ![directory](Figures/directory.png)
+
   - use any Software that can open `.py` format documents to open it. for example `spyder`
     ![root](Figures/root.png)
+
   - change the default directory to my directory
     ![change_before](Figures/change1.png)
+
+    ![arrow](Figures/arrow.png)
+
     ![change_after](Figures/change2.png)
+
     and don't hesitate to click the ***save*** button.
-  - right click the `Jupyter Note ` program  and open the   properties dialog. click the ***shortcut*** label and delete the
-`%USERPROFILE%` in the ***target*** box. rewrite  the path in the  ***starting position*** box and hit the ***apply*** button.
-![change_after](Figures/change2.png)
+  - right click the `Jupyter Note ` program  and open the  properties dialog. click the ***shortcut*** label and delete the `%USERPROFILE%` in the ***target*** box. rewrite  the path in the  ***starting position*** box and hit the ***apply*** button.
+     ![property](Figures/property.png)
+
   - open Jupyter Notebook , we will see, the directory changed. Well done!!!
-  ![interface](Figures/reopen.png)
+     ![interface](Figures/reopen.png)
 
 
 ### _repolication example 1 (in slides `regression`)_
-
+ ***demon on computer***
 
 ### _repolication example 2 (in slides `classification`)_
+ ***demon on computer***
