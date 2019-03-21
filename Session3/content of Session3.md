@@ -39,7 +39,7 @@ Tips: you can get TA revision materials on the homepage
 &ensp;
     ![root](Figures/root.png)
 &ensp;
-  - change the default directory to my directory
+  - change the default directory to your directory.(* it seems that the directory cannot include numbers, please try by yourself!*)
 &ensp;
     ![change_before](Figures/change1.png)
 &ensp;
