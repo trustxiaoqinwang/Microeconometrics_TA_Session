@@ -5,7 +5,7 @@
    - some useful website you can go
    - some useful book you can refer to
    - some helpful person you can ask
-- code repolication in slides ***regression*** and ***classification***  with `Python Jupyter Notebook`
+- code repolication in slides ***regression*** and ***classification***  with `R ` and `Python Jupyter Notebook`
 ***
 
 # Resources organization of this course
@@ -14,6 +14,7 @@
 [https://jiamingmao.github.io/data-analysis](https://jiamingmao.github.io/data-analysis)
 ### github repo
 [https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
+&ensp;
 &ensp;
 Tips: you can get TA revision materials on the homepage
 &ensp;
