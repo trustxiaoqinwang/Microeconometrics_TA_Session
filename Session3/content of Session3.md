@@ -57,6 +57,11 @@ Tips: you can get TA revision materials on the homepage
      ![interface](Figures/reopen.png)
 &ensp;
 
+### correspondence table  ###
+an `excel` table (*slide_data_code_correspondence.xlsx*) has been created on TA's repo. it helps you  quickly find the conrespondence relation among silides,data and code.
+&ensp;
+     ![table](Figures/table.png)
+
 ### _repolication example 1 (in slides `regression`)_
  ***demon on computer***
 
