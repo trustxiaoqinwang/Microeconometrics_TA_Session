@@ -2,7 +2,7 @@ note: TA material
 &ensp;
 date: 2019-03-22
 &ensp;
-TA Xiaoqin Wang
+TA: Xiaoqin Wang
 ## Outlines of TA session 3
 ### re-emphasis resources organization of this course.
 
