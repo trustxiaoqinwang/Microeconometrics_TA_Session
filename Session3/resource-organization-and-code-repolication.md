@@ -1,36 +1,19 @@
-***
-# Outlines of TA session 3 #
-- re-emphasis resources organization of this course.
-- some practical tips when you have technical problem with this course. eg markdown, R ,Python et al.
-   - some useful website you can go
-   - some useful book you can refer to
-   - some helpful person you can ask
-- code repolication in slides ***regression*** and ***classification***  with `R ` and `Python Jupyter Notebook`
-***
+
 
 # Resources organization of this course
-### all Information and resources are perfectly integrated in the following two websites
-### main course homepage
-[https://jiamingmao.github.io/data-analysis](https://jiamingmao.github.io/data-analysis)
-### github repo
-[https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
-&ensp;
-&ensp;
-Tips: you can get TA revision materials on the homepage
-&ensp;
-    ![review](Figures/review.png)
-***
-# Some practical tips
-### _useful websites_
-- Python
-  - [廖雪峰个人网站](https://www.liaoxuefeng.com/)
-  - [Crossin 编程教室](https://crossincode.com/home/)
-### _useful books_
-### _helpful person_
 
-***
+## main course homepage
+[https://jiamingmao.github.io/data-analysis](https://jiamingmao.github.io/data-analysis)
+## github repo
+[https://github.com/jiamingmao/data-analysis](https://github.com/jiamingmao/data-analysis)
+
+Tips: you can get TA revision materials on the homepage
+
+![review](Figures/review.png)
+
+
 # Code repolication
-### _preparation_
+##  _preparation_ : set the jupyter notebook  working environment
 - change the working directory of Jupyter Notebook
   - open `cmd` and type in ` jupyter notebook --generate-config` to find where this file is on your computer.  "jupyter_notebook_config.py".
 &ensp;
@@ -58,13 +41,17 @@ Tips: you can get TA revision materials on the homepage
      ![interface](Figures/reopen.png)
 &ensp;
 
-### correspondence table  ###
+##  correspondence table
 an `excel` table (*slide_data_code_correspondence.xlsx*) has been created on TA's repo. it helps you  quickly find the conrespondence relation among silides,data and code.
 &ensp;
      ![table](Figures/table.png)
 
-### _repolication example 1 (in slides `regression`)_
+##  _repolication example 1 (in slides `regression`)_
  ***demon on computer***
 
-### _repolication example 2 (in slides `classification`)_
+##  _repolication example 2 (in slides `classification`)_
  ***demon on computer***
+
+ # Domestic Website (专为python小白设计)
+ - [Crossin的编程教室](https://crossincode.com/home/)
+ - [廖雪峰Python教程](https://www.liaoxuefeng.com/)
