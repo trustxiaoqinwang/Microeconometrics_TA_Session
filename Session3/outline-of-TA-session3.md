@@ -1,8 +1,6 @@
-note: TA material
-&ensp;
-date: 2019-03-22
-&ensp;
-tutor: Xiaoqin Wang
+- note: TA material
+- date: 2019-03-22
+- Xiaoqin Wang
 ## Outlines of TA session 3
 ### re-emphasis resources organization of this course.
 
