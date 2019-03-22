@@ -29,9 +29,15 @@ an `excel` table (*slide_data_code_correspondence.xlsx*) has been created on TA'
      ![table](Figures/table.png)
 
 ##  _repolication example 1 (in slides `regression`)_
- ***demon on computer***
+- case : Wage profile
+- data : Wage.csv (in R , it is in package `ISLR`; in Python, we need to import the data. Please downloaded the data from [moodle](https://l.xmu.edu.cn/login/index.php) )
+- related thories : polynomial regression;piecewise constane regression;regression splines;natural splines
+ ***demon with R and jupyternotebook on computer***
 ##  _repolication example 2 (in slides `classification`)_
- ***demon on computer***
+- case : Credit Card Default
+- data : Default.csv (in R , it is in package `ISLR`; in Python, we need to import the data. Please downloaded the data from [moodle](https://l.xmu.edu.cn/login/index.php) )
+- related thories : logistic regression; FPR;FNR
+ ***demon with R on computer***
 
 # Domestic Website (专为python小白设计)
  - [Crossin的编程教室](https://crossincode.com/home/)
