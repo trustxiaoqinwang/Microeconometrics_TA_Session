@@ -9,8 +9,8 @@
 - 有些网站可能需要翻墙，若用Chrome浏览器，建议安装插件，推荐`Hoxx`。
 
 ## 计量理论学习
-- 首先当然是follow茅老师的课程资源，里面提供了大量的干货。当然有些内容可能比较难。
-- 另外，推荐2本书。
+- 首先当然是follow茅老师的课程资源，里面提供了大量的干货。不过有些内容可能比较难。
+- 另外，推荐2本书供大家学习。
   - 关于机器学习，An Introduction to Statistical Learning：with Applications in R.（中文版 统计学习导论：基于R应用）是非常好的入门书籍。茅老师的书单中已有，请优先下载此本。
   - 关于微观计量，推荐Cerulli, 2015, Econometric Evaluation of Socio-Economic Programs: Theory and Applications, Springer, German. （无中文版）。这是一本介绍微观计量方法的书，以后写论文可能用到的比较多。虽然茅老师在课上介绍过Most Harmless Econometrics这本书，即大名鼎鼎的`基本无害`，但其实这本书写得并不友好,好多技术细节我们不一定能马上看懂，翻译也很晦涩难懂。
   - 以上两本书都不难读，课程不多的话，基本上一周就能看完一本，MHE咬咬牙其实两周也能啃下来，看各位的兴趣。
