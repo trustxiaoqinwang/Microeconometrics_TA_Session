@@ -33,7 +33,7 @@ before use RStudio , make sure you install R first.
 ![R_downloaded](Figures/R_downloaded.png)  
 
 ![R_install1](Figures/R_install1.png)  
-  
+
 ![R_install2](Figures/R_install2.png)  
 
 ![R_install3](Figures/R_install3.png)  
@@ -48,7 +48,7 @@ here is the built-in R-GUI in R, but now RStudio is more user-friendly and popul
 
 ## install RStudio  
 
-1. log on to RStudio's homepage (https://www.rstudio.com/products/rstudio/download/) and download RStudio 
+1. log on to RStudio's homepage (https://www.rstudio.com/products/rstudio/download/) and download RStudio
  choose the free version  
  ![RS_download](Figures/RS_download.png)  
 
@@ -60,7 +60,7 @@ here is the built-in R-GUI in R, but now RStudio is more user-friendly and popul
 
 ![RS_install2](Figures/RS_install2.png)  
 
-![RS_install3](Figures/RS_install3.png) 
+![RS_install3](Figures/RS_install3.png)
 
 
 ##  a simple R program in RStudio  
@@ -71,5 +71,3 @@ here is the built-in R-GUI in R, but now RStudio is more user-friendly and popul
 
 2. a simple program in RStudio  
 ![RS_program](Figures/RS_program.png)  
-
-
