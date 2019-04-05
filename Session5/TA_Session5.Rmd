@@ -16,9 +16,9 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 # 主要内容
-## 复习  Classification 和 Model Selection
+## 总结  Classification 和 简单复习Model Selection
 ## 演示两个例子： Ketchup 和 Employment
-## 在stata中进行 probit and conditional logit 回归
+## 如何在stata中进行多值 logit 和 probit 回归
 ## 简单介绍 ordered logistic regression
 
 
@@ -64,10 +64,23 @@ class: top, left
 
 
 ---
-关于**probit regression** 的实例：
+
+关于二值和多值logit/probit
+最重要的资源是看stata帮助手册
+主要的stata命令：
+- logit (二值)
+- mlogit(多值 individual-specific explanatory variable)
+- clogit(多值 alternative-specific explanatory variable )
+- asclogit(多值 both individual and alternative specific explanatory variable)
+
+- probit(二值)
+- mprobit(多值 individual-specific explanatory variable)
+- asmprobit(多值 both individual and alternative specific explanatory variable)
+
+关于**probit regression** 的实例还可参见：
  [PROBIT REGRESSION | STATA DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/stata/dae/probit-regression/). 
  
-关于**probit regression** 的实例：
+关于**ordered logit regression** 的实例还可参见：
  [ORDERED LOGISTIC REGRESSION | STATA DATA ANALYSIS EXAMPLES](https://stats.idre.ucla.edu/stata/dae/ordered-logistic-regression/)
 
 
